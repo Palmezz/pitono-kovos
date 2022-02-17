@@ -55,10 +55,10 @@ def parse(input_string):
 #a_parsed = parse(a) <<-- turesim int'a
 suma(parse(a), parse(b))
 
-
+sdsdsd
 #kita diena atejo
 #kita diena atejo
-#kita diena atejo
+#kitsdsdsda diena atejo
 #kita diena atejo
 #kita diena atejo
 #kita diena atejo
@@ -75,3 +75,5 @@ suma(parse(a), parse(b))
 #alt shift rodykle dublikuoja
 #alt shift rodykle dublikuoja
 #alt shift rodykle dublikuoja
+#alt click keliose eilutese leidzia rasyt#alt click keliose eilutese leidzia rasyt
+#alt click keliose eilutese leidzia rasyt
