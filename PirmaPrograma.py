@@ -54,3 +54,12 @@ def parse(input_string):
 
 #a_parsed = parse(a) <<-- turesim int'a
 suma(parse(a), parse(b))
+
+
+#kita diena atejo
+#kita diena atejo
+#kita diena atejo
+#kita diena atejo
+#kita diena atejo
+#kita diena atejo
+#kita diena atejo
