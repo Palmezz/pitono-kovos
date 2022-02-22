@@ -52,7 +52,7 @@ while i < 10:
   print(i)
   i += 1 # i = i + 1
 
-# For loop
+# For ciklas
 
 grades = [10, 8, 7, 5, 10]
 
