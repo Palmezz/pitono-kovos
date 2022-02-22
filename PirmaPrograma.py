@@ -2,10 +2,6 @@ from decimal import getcontext
 import math
 #adsdasd
 
-
-'''
-asdasd
-'''
 #variables and print ~
 print ('helo word')
 vardas = 'almantas'
@@ -55,7 +51,6 @@ def parse(input_string):
 #a_parsed = parse(a) <<-- turesim int'a
 suma(parse(a), parse(b))
 
-sdsdsd
 #kita diena atejo
 #kita diena atejo
 #kitsdsdsda diena atejo
